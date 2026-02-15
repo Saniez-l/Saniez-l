@@ -1,4 +1,4 @@
-# Salut, je suis Christophe
+# Bonjour, je suis Christophe
 
 ###  Développeur Web & Mobile (Flutter) & Futur Ingénieur DevSecOps / Cybersécurité
 
@@ -45,7 +45,6 @@ Actuellement étudiant à **Holberton School (Lille)** et certifié en développ
 
 ###  Comment me contacter
 
-* **LinkedIn :** www.linkedin.com/in/saniez-lenthieul-christophe
-
+* **LinkedIn :** [Christophe Saniez-Lenthieul](https://www.linkedin.com/in/saniez-lenthieul-christophe)
 * **Localisation :** Wasquehal / Métropole Lilloise, France 🇫🇷
 * **Portfolio / Projets :** Jetez un œil à mes dépôts ci-dessous !
