@@ -47,4 +47,4 @@ Actuellement étudiant à **Holberton School (Lille)** et certifié en développ
 
 * **LinkedIn :** [Christophe Saniez-Lenthieul](https://www.linkedin.com/in/saniez-lenthieul-christophe)
 * **Localisation :** Wasquehal / Métropole Lilloise, France 🇫🇷
-* **Portfolio / Projets :** Jetez un œil à mes dépôts ci-dessous !
+* **Portfolio / Projets :** Jetez un œil à mes dépôts ci-dessous ou consultez directement mon portfolio :[Mon portfolio](https://github.com/sarahwcqz/Portfolio)!
