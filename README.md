@@ -36,8 +36,7 @@ Actuellement basé à Wasquehal, je suis immédiatement disponible pour un Job (
 
         Stack : Flutter, FastAPI (Python), Supabase. Co-développement et sécurisation de l'architecture API.
 
-  *   ***SleepBaby :*** Projet personnel. Application mobile autonome d'aide au sommeil pour enfants (bruits blancs et sons apaisants).
-
+  *   ***SleepBaby :*** Projet personnel. Application mobile intelligente de gestion du volume TV pour protéger le sommeil de l'entourage en atténuant automatiquement les pics sonores.
         Stack : Flutter / Dart.
 
 ---
