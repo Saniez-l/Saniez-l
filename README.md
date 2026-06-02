@@ -4,7 +4,7 @@
 
 Gamin, je démontais les PC et lisais Pirate Mag en cachette. Après une première vie professionnelle dans le transport (Chauffeur PL/TP) où la rigueur, la fiabilité et la gestion des imprévus sur le terrain étaient mon quotidien, j'ai opéré une reconversion totale vers ma passion de toujours : la Tech et la Sécurité.
 
-Ayant validé ma première année d'études fondamentales à Holberton School, je suis aujourd'hui Développeur Python && Flutter avec une solide culture en cybersécurité. Mon passage par le langage C, l'offensive security et l'analyse de réseaux m'a appris à coder proprement et à anticiper les failles. Mon objectif est de concevoir des applications performantes, fluides et intrinsèquement sûres (Secure by Design), en faisant le pont entre le développement moderne et les pratiques DevSecOps.
+Ayant validé ma première année d'études fondamentales à Holberton School, je suis aujourd'hui Développeur Python && Flutter avec une culture en cybersécurité. Mon passage par le langage C, l'offensive security et l'analyse de réseaux m'a appris à coder proprement et à anticiper les failles. Mon objectif est de concevoir des applications performantes, fluides et intrinsèquement sûres (Secure by Design), en faisant le pont entre le développement moderne et les pratiques DevSecOps.
 
 Actuellement basé à Wasquehal, je suis immédiatement disponible pour un Job (CDD/CDI) ou une Alternance Fullstack / Mobile sur la métropole lilloise.
 
