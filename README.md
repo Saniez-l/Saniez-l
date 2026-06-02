@@ -2,17 +2,11 @@
 
 ###  Développeur Web & Mobile (Flutter) & Futur Ingénieur DevSecOps / Cybersécurité
 
-Ancien professionnel du transport (chauffeur PL/TP), j'ai opéré une reconversion totale vers ma passion : la Tech et la Cybersécurité. Habitué aux responsabilités opérationnelles et à la gestion des imprévus, j'apporte aujourd'hui ma rigueur et ma fiabilité dans le monde du développement et de la sécurité informatique.
+Gamin, je démontais les PC et lisais Pirate Mag en cachette. Après une première vie professionnelle dans le transport (Chauffeur PL/TP) où la rigueur, la fiabilité et la gestion des imprévus sur le terrain étaient mon quotidien, j'ai opéré une reconversion totale vers ma passion de toujours : la Tech et la Sécurité.
 
-Actuellement étudiant à **Holberton School (Lille)** et certifié en développement **Flutter**, je me spécialise dans la cybersécurité avec pour objectif de faire le pont entre la création d'applications et leur sécurisation (AppSec / DevSecOps).
+Ayant validé ma première année d'études fondamentales à Holberton School, je suis aujourd'hui Développeur Python && Flutter avec une solide culture en cybersécurité. Mon passage par le langage C, l'offensive security et l'analyse de réseaux m'a appris à coder proprement et à anticiper les failles. Mon objectif est de concevoir des applications performantes, fluides et intrinsèquement sûres (Secure by Design), en faisant le pont entre le développement moderne et les pratiques DevSecOps.
 
----
-
-###  Ce que je fais actuellement
-
-*  **Étudiant chez Holberton School** (Fondamentaux de l'ingénierie logicielle, C, Python, Linux).
-*  **Spécialisation Cyber :** En cours d'obtention du *Google Cybersecurity Professional Certificate* (En route vers le CompTIA Security+).
-*  **Objectif :** À la recherche d'une **Alternance (RNCP Niveau 6) en Cybersécurité / Réseau / DevSecOps** sur la métropole lilloise (Disponibilité : rythme hybride 4j entreprise / 1j école).
+Actuellement basé à Wasquehal, je suis immédiatement disponible pour un Job (CDD/CDI) ou une Alternance Fullstack / Mobile sur la métropole lilloise.
 
 ---
 
@@ -20,6 +14,7 @@ Actuellement étudiant à **Holberton School (Lille)** et certifié en développ
 
 **Développement & Scripting**
 *  **Mobile :** Flutter / Dart (Certifié Google)
+*  **Backend & API :** Python, FastAPI, JavaScript, Bash/Shell
 *  **Langages :** C, Python, JavaScript, Bash/Shell
 
 **Bases de données & Gestion**
@@ -32,6 +27,18 @@ Actuellement étudiant à **Holberton School (Lille)** et certifié en développ
 **Systèmes & Outils**
 *  **OS :** Linux (Ubuntu), Ligne de commande
 *  **Outils :** Git, GitHub, Vim
+
+---
+
+### Projets Majeurs
+
+  *  ***Novi :*** Application mobile de navigation axée sur l'accessibilité urbaine.
+
+        Stack : Flutter, FastAPI (Python), Supabase. Co-développement et sécurisation de l'architecture API.
+
+  *   ***SleepBaby :*** Projet personnel. Application mobile autonome d'aide au sommeil pour enfants (bruits blancs et sons apaisants).
+
+        Stack : Flutter / Dart.
 
 ---
 
